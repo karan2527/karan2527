@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Jain</h1>
 <h3 align="center">A passionate Cybersecurity student, flutter developer, CTF player.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karan2527&label=Profile%20views&color=ff8c00&style=flat" alt="karan2527" /> </p>
+
 <p align="left"> <a href="https://twitter.com/karanjain2311" target="blank"><img src="https://img.shields.io/twitter/follow/karanjain2311?logo=twitter&style=for-the-badge" alt="karanjain2311" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200.gif?cid=790b7611ko0bcvwdlohbjv0uzoamayc38ikxf6whk3jgdmpb&ep=v1_gifs_search&rid=200.gif&ct=g">
