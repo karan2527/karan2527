@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=karan2527&label=Profile%20views&color=ff8c00&style=flat-square" alt="karan2527" /> 
 </p>
 
-<h1 align="left"> <img src="" alt="Twitter" height="60" width="100"/> About Me:</h1>
+<h1> About Me:</h1>
 
 - 🛡️ I'm a **Cybersecurity student**, **Flutter developer**, and **CTF player**    
 
